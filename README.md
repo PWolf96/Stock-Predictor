@@ -14,3 +14,29 @@ For the purpose of this analysis, data for **Google** will be used imported usin
  - seaborn
  - sklearn
  - keras
+
+## Features
+
+In this analysis the following techincal indicators were chosen:
+
+ - High - the highest price for the day
+ 
+ - Low - the lowest price for the day
+ 
+ - Open - the price at which a stock has opened
+ 
+ - Volume - the volume at which a stock has traded
+ 
+ - Close - the price at which a stock has closed
+ 
+ - Relative Strength Index (RSI) - Used as a momentum indicator commonly used to determine the strength of price changes in market. 
+
+ - On Balance Volume - Used as a volume indicator, calculating the buying and selling pressures of a stock
+
+ - Bollinger Bands -  Used as a volatility and trend indicator, plots three trend lines, determining whether a stock is overbought or oversold.
+ 
+ ## How to use
+ 
+  - Clone the repo
+  
+  - Run all cells
