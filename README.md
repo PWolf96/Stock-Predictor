@@ -43,4 +43,4 @@ In this analysis the following techincal indicators were chosen:
   
   ## Documentation 
   
-  [Written report](Stock-Predictor/Stock-Predictor-LSTM.pdf)
+  Written report provided within the document - *Stock-Predictor/Stock-Predictor-LSTM.pdf*
