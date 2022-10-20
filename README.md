@@ -40,3 +40,7 @@ In this analysis the following techincal indicators were chosen:
   - Clone the repo
   
   - Run all cells
+  
+  ## Documentation 
+  
+  [Written report](Stock-Prediction-LSTM.pdf)
